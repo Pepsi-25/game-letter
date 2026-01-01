@@ -19,12 +19,10 @@ gameModeOptions.value = GameMode;
 
 // Array of words for the typing game
 const words = [
-  "Apple", "Ball", "Cat", "Dog", "Elephant", "Fish", "Grape", "Hat", "Ice", "Jug",
-  "Kite", "Lion", "Moon", "Nest", "Orange", "Pen", "Queen", "Rain", "Sun", "Tree",
-  "Umbrella", "Violin", "Water", "Xylophone", "Yarn", "Zebra", "Air", "Boat", "Car",
-  "Duck", "Egg", "Frog", "Goat", "House", "Ink", "Jelly", "Key", "Lamp", "Mango",
-  "Nose", "Octopus", "Parrot", "Quilt", "Rabbit", "Star", "Tiger", "Unicorn", "Van",
-  "Whale", "Yak"
+  "ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر",
+  "ق", "غ", "ع", "ظ", "ط", "ض", "ص", "ش", "س", "ز",
+  , "ي", "و", "ه", "ن", "م", "ل", "ك", "ف",
+  
 ];
 
 // Function to get a random word from the words array
